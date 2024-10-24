@@ -1,0 +1,14 @@
+spring:
+  config:
+    active:
+      on-profile: "prod"
+build:
+  version: 3.0
+loans:
+  message: "Welcome to Easyfund Loan Prod API microservices"
+  contactDetails:
+    name: "Binod Kumar - Developer"
+    email: "binodkumar@learning.com"
+  onCallSupport:
+    - (777)525-5623
+    - (777)858-7895

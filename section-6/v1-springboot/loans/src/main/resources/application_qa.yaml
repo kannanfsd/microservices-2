@@ -1,0 +1,14 @@
+spring:
+  config:
+    active:
+      on-profile: "qa"
+build:
+  version: 3.2
+loans:
+  message: "Welcome to Easyfund Loan QA API microservices"
+  contactDetails:
+    name: "Asa Ogane - Developer"
+    email: "asaogane@learning.com"
+  onCallSupport:
+    - (333)525-5623
+    - (333)858-7895

@@ -1,0 +1,15 @@
+spring:
+  config:
+    activate:
+      on-profile: "prod"
+
+build:
+  version: "5.0"
+cards:
+  message: "Cards related details contact to below QA Rest API calls"
+  contactDetails:
+    name: "Remya Ramachandran"
+    email: "andree@easyfund.com"
+  onCallSupport:
+    - (123)445 5656
+    - (123)446 7896

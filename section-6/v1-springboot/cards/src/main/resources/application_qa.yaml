@@ -1,0 +1,15 @@
+spring:
+  config:
+    activate:
+      on-profile: "qa"
+
+build:
+  version: "5.2"
+cards:
+  message: "Cards related details contact to below QA Rest API calls"
+  contactDetails:
+    name: "Andree Suryanaa"
+    email: "andree@easyfund.com"
+  onCallSupport:
+    - (123)445 5656
+    - (123)446 7896
