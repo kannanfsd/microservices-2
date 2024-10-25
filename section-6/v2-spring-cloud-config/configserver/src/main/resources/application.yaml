@@ -17,7 +17,7 @@ spring:
         #native:
          # search-locations: "file:///C://Users//hp//easyfund"
          # search-locations: "classpath:/config"
-
-
+encrypt:
+  key: "$riH@ri510"
 server:
   port: 8071
