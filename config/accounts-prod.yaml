@@ -1,7 +1,7 @@
 build:
   version: "100.1"
 accounts:
-  message: "Welcome to EasyFund accounts related Local Production APIs"
+  message: "Welcome to EasyFund accounts related Local Prod APIs"
   contactDetails:
     name: "Himesh Nair Sasidharan"
     email: "{cipher}21328229e630a2c61cb5c52459b98171f44e37b6fed50082b30fc94541f778307fb2733ad8b0d8ced43fef4ee71f13d2"
