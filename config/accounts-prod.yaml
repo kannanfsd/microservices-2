@@ -1,0 +1,10 @@
+build:
+  version: "100.1"
+accounts:
+  message: "Welcome to EasyFund accounts related local prod APIs"
+  contactDetails:
+    name: "Himesh - Developer"
+    email: "himesh@easyfund.com"
+  onCallSupport:
+    - (222)555-1234
+    - (222)523-1345

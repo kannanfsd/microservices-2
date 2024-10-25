@@ -1,0 +1,10 @@
+build:
+  version: "500.3"
+cards:
+  message: "Cards related details contact to below"
+  contactDetails:
+    name: "Tina williams"
+    email: "tinawilliams@easyfund.com"
+  onCallSupport:
+    - (123)445 5656
+    - (123)446 7896
