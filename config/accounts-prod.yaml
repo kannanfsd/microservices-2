@@ -4,7 +4,7 @@ accounts:
   message: "Welcome to EasyFund accounts related local prod APIs"
   contactDetails:
     name: "Himesh - Developer"
-    email: "4ad2d6eaea908101900c7ee192f372f4e3fdf258f056ca27d6c5f43e4764b2969f14a5cd88a14a2349df4098d9b9b263
+    email: "{cipher}4ad2d6eaea908101900c7ee192f372f4e3fdf258f056ca27d6c5f43e4764b2969f14a5cd88a14a2349df4098d9b9b263"
 "
   onCallSupport:
     - (222)555-1234
