@@ -1,7 +1,7 @@
 build:
   version: "300.1"
 loans:
-  message: "Welcome to Easyfund Loan Prod API microservices"
+  message: "Welcome to Easyfund Loan Production API microservices"
   contactDetails:
     name: "Binod Kumar - Developer"
     email: "binodkumar@learning.com"
