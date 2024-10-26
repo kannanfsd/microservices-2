@@ -1,7 +1,7 @@
 build:
   version: "500.1"
 cards:
-  message: "Cards related details contact to below Prod Rest API calls"
+  message: "Cards related details contact to below Production Rest API calls Microservice"
   contactDetails:
     name: "Remya Ramachandran"
     email: "andree@easyfund.com"
