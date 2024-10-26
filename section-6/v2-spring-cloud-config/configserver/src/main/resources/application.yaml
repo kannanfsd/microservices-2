@@ -17,6 +17,11 @@ spring:
         #native:
          # search-locations: "file:///C://Users//hp//easyfund"
          # search-locations: "classpath:/config"
+  rabbitmq:
+    host: "localhost"
+    port: 5672
+    username: "guest"
+    password: "guest"
 encrypt:
   key: "$riH@ri510"
 server:
