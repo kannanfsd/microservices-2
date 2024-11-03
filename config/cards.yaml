@@ -1,7 +1,7 @@
 build:
   version: "500.3"
 cards:
-  message: "Cards related details contact as below with default config"
+  message: "Cards related details contact with default config"
   contactDetails:
     name: "Tina williams"
     email: "tinawilliams@easyfund.com"
