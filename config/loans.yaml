@@ -1,7 +1,7 @@
 build:
   version: "300.3"
 loans:
-  message: "Welcome to Easyfund Loan microservices"
+  message: "Welcome to Easyfund Loan local microservices"
   contactDetails:
     name: "David Mirchi - Developer"
     email: "davidmirchi@learning.com"

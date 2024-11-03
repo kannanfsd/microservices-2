@@ -1,7 +1,7 @@
 build:
-  version: "500.3"
+  version: "501.3"
 cards:
-  message: "Cards related details contact to below"
+  message: "Cards related details contact with default webhook config"
   contactDetails:
     name: "Tina williams"
     email: "tinawilliams@easyfund.com"
