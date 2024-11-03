@@ -1,7 +1,7 @@
 build:
   version: "100.3"
 accounts:
-  message: "Welcome to EasyFund accounts related local APIs"
+  message: "Welcome to EasyFund accounts related default APIs"
   contactDetails:
     name: "John Doe - Developer"
     email: "johndoe@easyfund.com"
