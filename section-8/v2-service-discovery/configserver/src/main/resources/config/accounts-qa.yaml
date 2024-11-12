@@ -1,0 +1,10 @@
+build:
+  version: "1.2"
+accounts:
+  message: "Welcome to EasyFund accounts related local QA APIs"
+  contactDetails:
+    name: "Willam Soa - Developer"
+    email: "williamsoa@easyfund.com"
+  onCallSupport:
+    - (111)555-1234
+    - (111)523-1345
