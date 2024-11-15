@@ -47,3 +47,7 @@ info:
     name: "accounts"
     description: "Easy Fund Accounts Application"
     version: "1.0.0"
+logging:
+  level:
+    com:
+      easyfund: DEBUG

@@ -47,3 +47,7 @@ info:
     name: "cards"
     description: "Easy Fund Cards applications"
     version: "1.0.0"
+logging:
+  level:
+    com:
+      easyfund: DEBUG

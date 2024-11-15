@@ -8,6 +8,7 @@ spring:
       discovery:
         locator:
           enabled: false
+          lower-case-service-id: true
 
 management:
   endpoints:
@@ -26,3 +27,8 @@ info:
     name: "gatewayserver"
     description: "Easy fund Gateway Server Application"
     version: "1.0.0"
+
+logging:
+  level:
+    com:
+      easyfund: DEBUG
